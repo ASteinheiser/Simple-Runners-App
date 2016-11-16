@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		490229A41DDD060B0016F5C4 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 490229A31DDD060B0016F5C4 /* WelcomeViewController.swift */; };
 		4938BF011DDBB5C8007FBA71 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4938BF001DDBB5C8007FBA71 /* DetailViewController.swift */; };
 		4938BF031DDBBBF3007FBA71 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4938BF021DDBBBF3007FBA71 /* TableViewController.swift */; };
 		4938BF051DDBBEE4007FBA71 /* runData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4938BF041DDBBEE4007FBA71 /* runData.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		490229A31DDD060B0016F5C4 /* WelcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 		4938BF001DDBB5C8007FBA71 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		4938BF021DDBBBF3007FBA71 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		4938BF041DDBBEE4007FBA71 /* runData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = runData.swift; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 				4938BF001DDBB5C8007FBA71 /* DetailViewController.swift */,
 				4938BF021DDBBBF3007FBA71 /* TableViewController.swift */,
 				49F9AD7C1DDC03FB00BA66B1 /* NewRunViewController.swift */,
+				490229A31DDD060B0016F5C4 /* WelcomeViewController.swift */,
 				4938BF041DDBBEE4007FBA71 /* runData.swift */,
 			);
 			path = finalProject;
@@ -154,6 +157,7 @@
 				4938BF011DDBB5C8007FBA71 /* DetailViewController.swift in Sources */,
 				4938BF031DDBBBF3007FBA71 /* TableViewController.swift in Sources */,
 				4938BF051DDBBEE4007FBA71 /* runData.swift in Sources */,
+				490229A41DDD060B0016F5C4 /* WelcomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
